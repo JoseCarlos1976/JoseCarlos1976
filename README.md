@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou José Carlos
 
-Sou apaixonado por tecnologia e estou aprendendo a programar. Este é minha area 51 no GitHub.
+Sou apaixonado por tecnologia e estou aprendendo a programar. Esta é minha area 51 no GitHub.
 
 ## 🔧 Tecnologias que estou estudando
 
